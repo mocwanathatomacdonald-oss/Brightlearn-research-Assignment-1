@@ -1,2 +1,2 @@
 # BrightLearn-Research-Assignment-1
-Foundation of Data Analytics and Data Science
+Foundations of Data Analytics and Data Science
